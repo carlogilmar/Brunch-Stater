@@ -1,0 +1,17 @@
+{
+  "name": "package-name",
+  "description": "example project",
+  "main": "",
+  "authors": [
+    "carlogilmar"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/carlogilmar/Brunch-Coffee",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
